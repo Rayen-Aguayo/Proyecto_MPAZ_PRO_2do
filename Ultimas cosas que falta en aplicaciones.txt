@@ -1,0 +1,9 @@
+utp
+falta editar,aprobar,deshabilitar unidades,objetivo de aprendizaje,explicaciones escrita/imágenes,desafios y pruebas finales
+
+docente
+falta consultar unidades autorizadas por UTP y seleccionar objetivo de aprendizaje a trabajar con cada curso,asignar contenidos/desafíos,configurar rangos de disponibilidad,numero máximo de intentos para las pruebas finales,monitorear avances,revisar respuestas en la prueba final,consultar el rendimiento agrupado por objetivo de aprendizaje y registrar observaciones pedagógicas sobre el informe del estudiante
+
+estudiante
+falta ingresar al perfil del estudiante de prueba,acceder solo a las asignaturas y objetivos del aprendizaje asignados,revisar texto breves,visuales,escuchar audios de instrucciones/explicaciones y observar ejemplos guiados,desafíos progresivos y visualizar confirmaciones de avance simples y Rendir la prueba final (según el número de intentos permitidos) y revisar respuestas
+correctas/incorrectas.
